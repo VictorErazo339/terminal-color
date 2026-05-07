@@ -1,0 +1,24 @@
+{
+  "name": "terminal-color",
+  "version": "1.0.0",
+  "description": "Proyecto de terminal con chalk",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoPenaG/terminal-color.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoPenaG/terminal-color/issues"
+  },
+  "homepage": "https://github.com/DiegoPenaG/terminal-color#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
