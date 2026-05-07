@@ -36,7 +36,7 @@ Desarrollar un programa en JavaScript que simule una terminal interactiva, aplic
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/DiegoPenaG/terminal-color.git
+git clone https://github.com/VictorErazo339/terminal-color.git
 cd terminal-color
 npm install
 ```
@@ -162,6 +162,6 @@ Hola Equipo JS, ¡bienvenido al mundo JavaScript! 🌍
 * Alexander Hass
 
 
-* Homies 2026. Generation Chile Javalimos*
+*Homies 2026. Generation Chile Javalimos*
 
 ---
